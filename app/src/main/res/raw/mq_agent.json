@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mq-agent-sywbab",
+  "private_key_id": "28a8a95e7aa7689cb70cdeb27afd5b2a831a2dde",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDY8pyyDuLgYCNr\nC7ihHzyb80MJjPAj11ZbfwqDuRgaC7+z84Lhr/6B+3SUebZtO8Q3/LWnEe5chKbJ\nOgSz7YWz3GKvQ9m31AIhcGFgy/H/84BM94/X6lMO2xOUWZNY1lv3SJhEpQYRJxg8\nFJBSyMziou6XwQM5WDaq7ivsk0F9GoM9pKJ+DThC9WfuX1lDVYdK3FUcYdfGoLp/\nfPoRXPZ/3zY8zbwEqioN0AqNP653iFk1D5559rPPwSbUkdim6XsoY4pEnApKUzpX\nUskh5xC0Gd8Vokh1KLqbR30xdY5IwEWwAC+d8YQqMTAl/b1o5uepMKzV4PaZeuxk\nY1QWMziLAgMBAAECggEAGCFoJ2/7cTyQQ/RSTW2Vhr0YjEPmY/4sJ1Iqn7sjQKZk\n5MWlnae/NcL71RXyohS/PwD3TYVzj0vb507yPfch438UZO01lrpYoFKJKkSU/sSd\nVTJGCBySr3jTpTEPcBartQYYla4LTjYcfnZFFUgrbdv0kOGRk7vJnNqP/Sjl5F2t\npUroPCxKf3LHZexOZOzthJ+i1ZEytGGcSKhdcxn5X47HoRA0CpykhHEDdNvH8hhW\nASijKFQ5xz3ECPa1lAQxI7L32dXyUhITtoAdcva7Nf9/AQ6v9a9n13BxuU/eyYlJ\n7DTAAc2hiWkXkgvb87GsnAqLqIRIu7Z4A05mj7xzCQKBgQDsSkDZZcbG4JAHyJbh\nHwi7jwRxzbVKy8HRz/KNUnsTqAPNQx5QOcnFo5KR/QuD7CNtGE3G2GB14ZeFenmd\nMYWJWoJCtArPD3aV0J09xfP4ogMJ7jPofZLDnJ31th7EGt/Sae+Yt4T0yH5h614g\n1DduD7AVGhQJu+ylGg1MFclC2QKBgQDrC1JQFueUma5gNfK9z0z5MYoMUbXvfGnn\ndvVyObI7AiKN+o0xpFOzcobxiQN7BikO99eWYZqpw69EFdmPmIR6Ed3ai23y5tff\nxO2zkVL69201L2D+cjVi+T5tlw/qhu+WiIn9BjgvilgchZ9iKJExFr+xzqlSx+pV\nxG4ppAzwAwKBgQDNsboQRiwrVrOrQvAtW1HDzLVmyFdonEXGewrAAaxIqTteBW6v\nEg9W8JUYZzsOBZO1VbHnRtd55v97X+nccI65ykOZA5hhNinaMzee3eMLbyXMEEO5\nwQ7xIDbV/kt8FZUAW94KiL/CQ4LZhQZ096ilNBzp0cDd1G0mMK6grFp+yQKBgQDc\nb8nLAzA91cQMx4vZKEpwi12FID0ZVf2c75xSfHoDjYUK0ykIna1CZu7YKD/zaVuo\nhhjTGMcM4FHH8RYR7mCQe6EuDgYYARgE7ZRhDLJeXR82+jBlcodPQ6Kg9UQgGF0r\nOPLxMpwPOhhY55kLXjCNcWBnSgLTeFr2BTusIgdgMQKBgQDJ2RfpV7QFM7fjH8nz\nJGn5vQBH0s8cgQVPppCNr97I4esXcDSGB+SCmS1Q4bwKCiX/4T3lY62Kbd/ob8U6\n2IOhDtRiyETo4Xl9pOqvnK+CbPX8y4EbSJ8W3riFEl8V5KEdF0UgkfCNIVdKow9B\nhBN530Nim5BAzNu6R6zBgz488g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mq-agent@mq-agent-sywbab.iam.gserviceaccount.com",
+  "client_id": "113987769265156849846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mq-agent%40mq-agent-sywbab.iam.gserviceaccount.com"
+}

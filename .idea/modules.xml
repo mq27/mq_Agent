@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/dialogflow-STT-chatbot-app.iml" filepath="$PROJECT_DIR$/app/dialogflow-STT-chatbot-app.iml" group="dialogflow-testing/app" />
+      <module fileurl="file://$PROJECT_DIR$/dialogflow-STT-chatbot-dialogflow-testing.iml" filepath="$PROJECT_DIR$/dialogflow-STT-chatbot-dialogflow-testing.iml" group="dialogflow-testing" />
+      <module fileurl="file://$PROJECT_DIR$/dialogflow-testing.iml" filepath="$PROJECT_DIR$/dialogflow-testing.iml" />
+    </modules>
+  </component>
+</project>
